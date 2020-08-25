@@ -1,0 +1,17 @@
+body{
+  background-color: #eaf6f6 ;
+}
+hr{
+  /* background-color:#white; /*redundant line bcoz hr width is 0*/
+  height: 0px;
+  width : 4%;
+  border-style: dotted none none none;
+  border-width : 5px;
+  border-color:grey;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
